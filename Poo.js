@@ -11,6 +11,8 @@ class Animal {
 
 class Dog extends Animal{
     constructor (name){
+
+        
         super(name)
         this.type = "perro hembra"
     }
